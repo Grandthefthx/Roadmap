@@ -10,4 +10,4 @@ for i in ar:
         cur_count = 0
 
 print(max_count)
-# RDY
+# RDY тест!рор
