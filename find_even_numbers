@@ -1,0 +1,10 @@
+nums = [5555,9,482,1771]
+one = 0
+total = 0
+for i in nums:
+    if i % 10 > 1:
+        print("da")
+    else: 
+        print("lol")
+
+
